@@ -1,3 +1,7 @@
+body {
+    font-family: sans-serif ;
+}
+
 .left, .right {
     position: fixed;
     width: 50%;
@@ -8,6 +12,10 @@
 .left {
     background-color: aquamarine;
     left: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .right {
@@ -30,6 +38,7 @@
 body.body-state1 .rocket {
     transition: none;
 }
+
 body.body-state3 .rocket,
 body.body-state4 .rocket {
     bottom: 1000px;
@@ -38,6 +47,9 @@ body.body-state4 .rocket {
 body.body-state5 .rocket {
     background: url(./images/boom.png);
     background-repeat: no-repeat;
+    margin-left: -96px;
+    width: 192px;
+    bottom: 10px;
 }
 
 .ground {
