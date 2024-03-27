@@ -14,4 +14,4 @@ This is a small interactive web app with one goal: launch a rocket into space. I
 
 ## Acknowledgments
 
-* [Launch a Rocket](https://www.skillshare.com/en/classes/launch-a-rocket-learn-javascript-basics-the-fun-way/640346588) Launch a rocket: a class on [SkillShare](www.skillshare.com) taught by [Rich Armstrong](https://www.taptapkaboom.com/)
+* [Launch a Rocket](https://www.skillshare.com/en/classes/launch-a-rocket-learn-javascript-basics-the-fun-way/640346588): a class on [SkillShare](www.skillshare.com) taught by [Rich Armstrong](https://www.taptapkaboom.com/)
